@@ -46,7 +46,7 @@ h2{
   border-radius:.2rem 2rem;
 }
 
-.bca-1 p{
+.bca-1 a{
   font-weight:701;
   font-size:2rem;
   
@@ -63,7 +63,7 @@ h2{
   border-radius:.2rem 2rem;
 }
 
-.bca-2 p{
+.bca-2 a{
   font-weight:701;
   font-size:3rem;
   color:rgb(46, 43, 43);
@@ -80,7 +80,7 @@ h2{
   border-radius:.2rem 2rem;
 }
 
-.bca-3 p{
+.bca-3 a{
   font-weight:701;
   font-size:3rem;
   text-align:center;
@@ -95,7 +95,7 @@ h2{
   background-size:cover;
   border-radius:.2rem 2rem;
 }
-.bca-4 p{
+.bca-4 a{
   font-weight:701;
   font-size:2rem;
   color:rgb(46, 43, 43);
@@ -113,7 +113,7 @@ h2{
   border-radius:.2rem 2rem;
 }
 
-.bca-5 p{
+.bca-5 a{
   font-weight:701;
   font-size:2rem;
   color:rgb(46, 43, 43);
@@ -122,3 +122,7 @@ h2{
   background-color:#9b9b9b;
   
 }
+
+.bca-1 a,.bca-2 a,.bca-3 a,.bca-4 a,.bca-5{
+  display:inline-block;
+} 
