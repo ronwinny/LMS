@@ -1,0 +1,124 @@
+html{
+font-size:62.5%;
+}
+
+*{
+padding:0px;
+margin:0px;
+box-sizing:border-box;
+}
+body{
+  padding:2rem 4rem;
+}
+
+legend{
+  font-size:5rem;
+  color:#1e4957;
+}
+
+h2{
+  color:#464646;
+  font-size:3.5rem;
+  padding-left:3rem;
+}
+
+.subjects{
+  max-width:120rem;
+  margin:1.5rem auto;
+  background-color:rgb(211, 211, 211);
+  
+  padding:1rem 12%;
+  display:flex;
+  flex-wrap:wrap;
+  gap:5rem;
+}
+
+.bca-sub{
+  width:25rem;
+  height:20rem;
+  background-color:rgb(97, 77, 214);
+  font-family:sans-serif;
+}
+
+.bca-1{
+  background-image:url("images/c.jpg");
+  background-size:cover;
+  border-radius:.2rem 2rem;
+}
+
+.bca-1 p{
+  font-weight:701;
+  font-size:2rem;
+  
+  text-align:center;
+  margin:4rem;
+  background-color:#9b9b9b;
+  color:rgb(46, 43, 43);
+  
+}
+
+.bca-2{
+  background-image:url("images/stati.jpg");
+  background-size:cover;
+  border-radius:.2rem 2rem;
+}
+
+.bca-2 p{
+  font-weight:701;
+  font-size:3rem;
+  color:rgb(46, 43, 43);
+  text-align:center;
+  margin:4rem;
+  background-color:#9b9b9b;
+  
+}
+
+
+.bca-3{
+  background-image:url("images/maths.jpg");
+  background-size:cover;
+  border-radius:.2rem 2rem;
+}
+
+.bca-3 p{
+  font-weight:701;
+  font-size:3rem;
+  text-align:center;
+  margin:4rem;
+  background-color:#9b9b9b;
+  color:rgb(46, 43, 43);
+  
+}
+
+.bca-4{
+  background-image:url("images/fd.jpg");
+  background-size:cover;
+  border-radius:.2rem 2rem;
+}
+.bca-4 p{
+  font-weight:701;
+  font-size:2rem;
+  color:rgb(46, 43, 43);
+  text-align:center;
+  margin:4rem;
+  background-color:#9b9b9b;
+  
+}
+
+
+
+.bca-5{
+  background-image:url("images/english.jpg");
+  background-size:98%;
+  border-radius:.2rem 2rem;
+}
+
+.bca-5 p{
+  font-weight:701;
+  font-size:2rem;
+  color:rgb(46, 43, 43);
+  text-align:center;
+  margin:4rem;
+  background-color:#9b9b9b;
+  
+}
